@@ -53,6 +53,7 @@
      <Compile Include="Assets\MobileInput\Scripts\VirtualInput.cs" />
      <Compile Include="Assets\ironman\IronmanBehaviorScript.cs" />
      <Compile Include="Assets\ironman\blastwave\EnergyBeamScript.cs" />
+     <Compile Include="Assets\mini-spiderman\EnemyMovement.cs" />
      <Compile Include="Assets\my-scripts\CarDriveLeftSideScript.cs" />
      <Compile Include="Assets\my-scripts\CarDriveRightSideScript.cs" />
      <Compile Include="Assets\my-scripts\CrossyCharacterMoveScript.cs" />
