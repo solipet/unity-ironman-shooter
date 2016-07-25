@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/mini-spiderman/EnemyMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ironman/PlayerShoot.cs">
     <Files>
-      <File FileName="Assets/mini-spiderman/EnemyMovement.cs" Line="12" Column="39" />
-      <File FileName="Assets/ironman/IronmanBehaviorScript.cs" Line="14" Column="25" />
+      <File FileName="Assets/mini-spiderman/EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/ironman/IronmanBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ironman/PlayerShoot.cs" Line="39" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
